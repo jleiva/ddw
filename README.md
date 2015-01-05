@@ -22,3 +22,4 @@ Varios
 ------
 * Lectura recomendada: [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) 
 * [Components Versus Patterns](http://www.uie.com/articles/components_vs_patterns/)
+* [How and why to create a pattern library](https://boagworld.com/design/pattern-library/) - Incluye auidio de ~9 minutos

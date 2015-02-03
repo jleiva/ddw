@@ -12,6 +12,7 @@ CSS
 JS
 ------
 * Podcast: [The Origin of Javascript](http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
+* Video: [So you know jQuery. Now what?](https://vimeo.com/68009123)
 
 Recursos
 ------
